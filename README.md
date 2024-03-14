@@ -1,12 +1,10 @@
-# 2d-dodge-game
+##   Built a 2D Game in Godot!
 
+This project demonstrates my skills in structuring and implementing core 2D gameplay mechanics:
 
-Developed a comprehensive 2D game using the Godot editor.
+- **Organized Project Structure:** Leveraged Godot's features to structure the project efficiently, facilitating maintenance and scalability.
+- **Player Movement with Animations:** Implemented smooth and responsive player movement, accompanied by visually appealing sprite animations that enhance the gameplay experience.
+- **Enemy Spawning System:** Integrated a well-designed enemy spawning system, adding challenge and variety to the gameplay.
+- **Engaging Scoring System:** Developed a comprehensive scoring system that tracks player progress and motivates them to achieve higher scores, increasing engagement and replayability.
 
-Structured a basic game project for efficient organization.
-
-Enabled player character movement and sprite customization.
-
-Integrated a dynamic enemy spawning system for added challenge.
-
-Incorporated a scoring mechanism to track progress throughout the game.
+**This project showcases my ability to plan, structure, and implement core 2D game mechanics, fostering an engaging and enjoyable player experience.**
